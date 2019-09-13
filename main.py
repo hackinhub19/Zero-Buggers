@@ -15,7 +15,7 @@ def main():
     questionList = aqg.aqgParse(inputText)
     aqg.display(questionList)
 
-    #aqg.DisNormal(questionList)
+    aqg.DisNormal(questionList)
 
     return 0
 
