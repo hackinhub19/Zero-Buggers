@@ -1,8 +1,11 @@
 ## Initial Requirements
 Python3.5+
-spacy\n
-Numpy\n
-NLTK\n
+
+spacy
+
+Numpy
+
+NLTK
 
 ## How to run?
 Run python main file by typing in the command prompt as python main.py
@@ -22,6 +25,7 @@ Q-03: Who loved walking barefoot in her simple clothes over grassy fields?
 Q-04: What wishing that her father wishing and learn to love the world as she did?
 
 End  OutPut
+
 -----X-----
 
 ## Storage
