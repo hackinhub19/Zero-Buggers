@@ -1,8 +1,8 @@
 ## Initial Requirements
 Python3.5+
-spacy
-Numpy
-NLTK
+spacy\n
+Numpy\n
+NLTK\n
 
 ## How to run?
 Run python main file by typing in the command prompt as python main.py
@@ -13,6 +13,7 @@ Goldie did not care for jewels or gold. She loved walking barefoot in her simple
 If this text is pushed in the database the output generated are as follows:
 
 ------X------
+
 Start  output:
 
 Q-01: Who did not care for jewels or gold?
